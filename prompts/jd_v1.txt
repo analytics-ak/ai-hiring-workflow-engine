@@ -1,0 +1,3 @@
+Write a job description for a {job_title} role requiring {skills}.
+Experience needed: {experience_level}.
+Location: {location}.

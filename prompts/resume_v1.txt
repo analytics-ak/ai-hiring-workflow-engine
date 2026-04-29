@@ -1,0 +1,6 @@
+Compare this resume with this job description and tell me how well they match.
+
+JD: {jd_text}
+Resume: {resume_text}
+
+Give a score out of 100.

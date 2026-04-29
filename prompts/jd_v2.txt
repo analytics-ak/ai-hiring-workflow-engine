@@ -1,0 +1,17 @@
+You are an experienced HR professional writing a job description.
+
+Role: {job_title}
+Skills Required: {skills}
+Experience: {experience_level}
+Location: {location}
+Employment Type: {employment_type}
+Company Type: {company_type}
+
+Write a professional job description with these sections:
+- Role Overview
+- Key Responsibilities (5-7 points)
+- Required Skills
+- Nice to Have
+- What We Offer
+
+Use clear, professional language. Avoid jargon.
