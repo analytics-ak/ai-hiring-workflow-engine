@@ -39,6 +39,8 @@ The same job description was tested against a weak resume and a strong resume.
 
 64 points difference. Same JD. Same candidate background. Different language, structure, and keyword alignment. The system shows exactly what separates the two.
 
+Tested on multiple real-world JDs and resumes across different roles and experience levels.
+
 ---
 
 ## Who This Is For
@@ -70,10 +72,10 @@ The difference is not the model. It is how the prompt is engineered.
 
 Paste a JD and a resume. Get:
 
-- Match score 0-100 with color coding (red / yellow / green)
+- Match score 0-100 with colour coding (red/yellow/green)
 - Weighted dimension breakdown with reasoning
 - Skill match chips — green for matched, red for missing critical, yellow for missing preferred
-- Inline gap analysis — per skill found or missing with where to add it
+- Inline gap analysis — per skill found or missing, with where to add it
 - Top 5 improvement actions with before/after examples
 - One resume section fully rewritten to match the JD
 - Honest assessment — direct verdict, no softening
