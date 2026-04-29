@@ -1,0 +1,37 @@
+Priya Sharma | Senior Data Analyst
+Email: priya@email.com | LinkedIn: linkedin.com/in/priyasharma
+
+SUMMARY
+Data Analyst with 4 years of experience building dashboards, analyzing trends, 
+and presenting insights to senior stakeholders in fintech and e-commerce. 
+Proficient in Python, SQL, Power BI, and Tableau.
+
+SKILLS
+Technical: Python (pandas, numpy, matplotlib), SQL (PostgreSQL, MySQL), 
+Power BI, Tableau, Excel (pivot tables, VLOOKUP, macros), Git
+Soft Skills: Stakeholder communication, data storytelling, cross-functional collaboration
+
+EXPERIENCE
+
+Senior Data Analyst | PayFinance (Fintech) | 2022 - Present
+- Built 12 Power BI dashboards tracking loan performance, customer churn, and 
+  revenue metrics used daily by C-suite and 5 department heads
+- Wrote complex SQL queries on 2M+ record PostgreSQL database to identify 
+  customer behavior trends, reducing churn by 8% over 6 months
+- Developed Python automation scripts reducing manual reporting effort by 18 
+  hours per week across the analytics team
+- Presented weekly trend analysis to product managers and growth leads, 
+  directly influencing 3 major product decisions in Q3 2023
+- Analyzed A/B test results for 15+ product features, providing statistical 
+  recommendations that improved conversion rate by 12%
+
+Data Analyst | ShopEasy (E-commerce) | 2020 - 2022
+- Designed Tableau dashboards for operations team tracking order fulfillment 
+  and delivery performance across 8 warehouse locations
+- Extracted and analyzed customer purchase data using SQL to identify 
+  seasonal trends, supporting inventory planning decisions
+- Collaborated with engineering team to define data tracking requirements 
+  for 4 new product features
+
+EDUCATION
+B.Tech Computer Science | VIT University | 2020

@@ -1,0 +1,11 @@
+John Smith | Data Analyst
+Email: john@email.com
+
+Skills: Python, Excel, SQL, Tableau
+
+Experience:
+2 years as Business Analyst at TCS
+- Created reports using Excel
+- Worked with databases
+
+Education: BCA 2022

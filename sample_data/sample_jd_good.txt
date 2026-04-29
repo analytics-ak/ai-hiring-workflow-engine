@@ -1,0 +1,40 @@
+## Senior Data Analyst | Full-Time | Bangalore
+
+### About the Role
+You will own the analytics infrastructure that powers decisions across product, 
+marketing, and finance teams. This role exists because we are scaling from 
+50,000 to 500,000 users and need someone to turn growing data into clear insights.
+
+### What You Will Do
+- Build and maintain Power BI dashboards tracking user behavior and revenue metrics 
+  for C-suite and department heads
+- Write complex SQL queries to extract and transform data from PostgreSQL databases 
+  for weekly business reviews
+- Develop Python scripts to automate reporting tasks, reducing manual work by 15+ 
+  hours per week
+- Analyze A/B test results for product features and present findings to product managers
+- Identify trends in customer churn and recommend data-backed interventions
+- Collaborate with engineering to define tracking requirements for new features
+
+### What You Bring
+REQUIRED:
+- 3-5 years experience as a data analyst or business analyst
+- Strong SQL including joins, subqueries, and window functions
+- Hands-on experience building dashboards in Power BI or similar BI tools
+- Working knowledge of Python for data analysis (pandas, numpy)
+- Ability to translate technical findings for non-technical stakeholders
+
+PREFERRED:
+- Prior experience in fintech or financial services
+- Familiarity with A/B testing methodologies
+- Experience with Git for version control
+- Advanced Excel including pivot tables and VLOOKUP
+
+### What We Offer
+Salary range of Rs 12-18 LPA based on experience plus ESOP grant vesting over 
+4 years. Health insurance covering you, spouse, and children. Flexible hours 
+with 3 days in-office and 2 days remote. Annual learning budget of Rs 50,000.
+
+### How to Apply
+Send your resume and a brief note about your most impactful data project to 
+careers@company.com with Data Analyst Bangalore in the subject line.
